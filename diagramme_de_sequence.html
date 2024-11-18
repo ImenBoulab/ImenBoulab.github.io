@@ -14,8 +14,8 @@ sequenceDiagram
      
       Utilisateur ->> ServeurWebJekyll: Demande page
       ServeurWebJekyll ->> ServeurGithub: Récupère projets
-      ServeurGithub -->> ServeurWebJekyll: Envoie projets
-      ServeurWebJekyll -->> Utilisateur: Affiche projets
+      ServeurGithub ->> ServeurWebJekyll: Envoie projets
+      ServeurWebJekyll ->> Utilisateur: Affiche projets
   </pre>
   <script type="module">
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';

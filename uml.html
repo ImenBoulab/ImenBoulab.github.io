@@ -1,0 +1,21 @@
+ classDiagram
+      Portfolio <|-- Page
+      Portfolio <|-- Project
+      Portfolio <|-- cv
+      Portfolio : +int age
+      Portfolio : +String gender
+      Portfolio: +isMammal()
+      Portfolio: +mate()
+      class Page{
+          +string nom
+          +String contenu
+      }
+      class Project{
+          -String nom
+          -String description
+          -String url
+      }
+      class CV{
+          +string fichier
+      }
+     

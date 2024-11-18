@@ -1,7 +1,7 @@
  classDiagram
-      Portfolio <|-- Page
-      Portfolio <|-- Project
-      Portfolio <|-- cv
+      Portfolio --|> Page
+      Portfolio --|> Project
+      Portfolio --|> cv
       Portfolio : +int age
       Portfolio : +String gender
       Portfolio: +isMammal()

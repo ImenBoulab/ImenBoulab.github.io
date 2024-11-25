@@ -31,19 +31,21 @@ Passionnée par les sciences des données et convaincue de l'importance du manag
 
 ## 🛠️ Compétences
 
-### Économie et Management
-- Analyse des données de l'environnement entrepreneurial et économique en vue d'aider à la prise de décision stratégique.
-
 ### Statistique
 - Analyse de données et interprétation des résultats (statistique descriptive et inférentielle).
-- Programmation statistique (SAS, R).
+- Programmation statistique (SAS, R, Rshiny).
 
 ### Programmation et Reporting
 - Création, exploitation, nettoyage, automatisation et reporting de bases de données.
 - Requêtes SQL et création de tableaux de bord.
 - Application de logique algorithmique.
 - Bonne maîtrise du langage Python.
-
+- Système d'Information Géographique (Argis, QGIS,Leaflet, Postgis)
+- ETL (FME)
+- BDD relationnelle (Oracle, Postgres) Plpsql
+- BDD NoSQL (MongoDB , NEO4J)
+- Access, Excel
+- HTML, CSS, PHP, SVG, HTML, Bootstrap
 ---
 
 ## 💻 Langages et Logiciels
@@ -82,6 +84,11 @@ Passionnée par les sciences des données et convaincue de l'importance du manag
   - Création de requêtes préalables à la construction des tableaux de bord en tenant compte des termes présentés dans un cahier des charges fourni.
 
 ---
+
+
+
+
+
 
 ## ❤️ Centres d'Intérêt
 

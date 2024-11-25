@@ -1,4 +1,4 @@
-# Prénom Nom
+# Imen Boulabiar
 
 📍 **Adresse** : 24 Cours Lazare Escarguel 66000 Perpignan
 📧 **Email** : imen.boulabiar@yahoo.com
@@ -12,10 +12,9 @@
   Iut de Carcassonne 
   2022-2025
 
-- **[Nom du diplôme ou certification]**  
-  [Établissement], [Lieu]  
-  [Dates de début et de fin]  
-  *[Description ou points marquants]*
+- **[Baccalauréat Scientifique]**  
+  [Lycée Pilote de Nabeul], [Tunisie]  
+  [2022]  
 
 ---
 

@@ -1,4 +1,9 @@
-# Imen BOULABIAR
+<img src="/assets/images/image_cv.jpg" alt="Photo de profil" style="width:150px; border-radius:50%; float:right; margin-left:15px;" />
+
+**Imen BOULABIAR**
+
+Étudiante en 3ème année de Science des Données  
+Forte d’une formation de trois ans en sciences des données...
 
 **Étudiante en 3ème année de Science des Données**  
 Forte d’une formation de trois ans en sciences des données, j’ai développé une expertise en apprentissage automatique et en analyse statistique, tout en acquérant une solide maîtrise de diverses approches et outils. Désireuse de perfectionner mes compétences, je souhaite poursuivre un master spécialisé en gestion de bases de données relationnelles et non relationnelles, afin de mieux appréhender les enjeux modernes du management des données

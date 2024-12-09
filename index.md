@@ -1,3 +1,4 @@
+<img src="image_cv.jpg" alt="Photo de profil" style="width:150px; border-radius:50%; float:right; margin-left:15px;" />
 # Imen BOULABIAR
 
 **Étudiante en 3ème année de Science des Données**  
